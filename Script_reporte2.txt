@@ -1,0 +1,6 @@
+//Creación de Script para reporte de tiendas que mas venden
+<INICIO>
+1. Obtener datos de tiendas
+2. REalizar cruce de las ventas
+3. Crear Indicadores de tiendas que mas venden
+<FIN>
