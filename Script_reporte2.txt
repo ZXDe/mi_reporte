@@ -1,6 +1,6 @@
 //Creación de Script para reporte de tiendas que mas venden
 <INICIO>
-1. Obtener datos de tiendas
+1. Obtener datos de tiendas in ('Lima', 'Piura', 'Chiclayo', 'Trujillo','Ica')
 2. REalizar cruce de las ventas
 3. Crear Indicadores de tiendas que mas venden
 <FIN>
